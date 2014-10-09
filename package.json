@@ -1,0 +1,12 @@
+{
+  "name": "ws-error",
+  "devDependencies": {
+    "wintersmith": "^2.1.0",
+    "wintersmith-less": "^0.2.3",
+    "wintersmith-nunjucks": "^0.5.1"
+  },
+  "scripts": {
+    "dev": "wintersmith preview",
+    "build": "wintersmith build"
+  }
+}

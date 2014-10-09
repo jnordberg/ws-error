@@ -1,0 +1,12 @@
+{
+  "locals": {
+    "title": "error"
+  },
+  "plugins": [
+    "wintersmith-less",
+    "wintersmith-nunjucks"
+  ],
+  "less": {
+    "relativeUrls": true
+  }
+}
