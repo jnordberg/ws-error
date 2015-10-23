@@ -8,5 +8,6 @@
   ],
   "less": {
     "relativeUrls": true
-  }
+  },
+  "ignore": ["styles/base.less"]
 }
